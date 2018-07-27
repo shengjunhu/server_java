@@ -8,8 +8,9 @@
     <artifactId>FastJava</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>FastJava Maven Webapp</name>
-    <url>http://maven.apache.org</url>
+
+    <name>FastJava</name>
+    <url>http://www.hsj.com</url>
 
     <modules>
         <module>web-pc</module>
@@ -27,6 +28,10 @@
         <module>lib-search</module>
         <module>lib-mongo</module>
         <module>lib-encrypt</module>
+        <module>lib-db</module>
+        <module>lib-quartz</module>
+        <module>lib-activemq</module>
+        <module>lib-bubbox</module>
 
         <module>sdk-ali</module>
         <module>sdk-im</module>
@@ -36,7 +41,6 @@
         <module>sdk-qq</module>
         <module>sdk-sina</module>
         <module>sdk-wx</module>
-        <module>lib-db</module>
     </modules>
 
     <properties>

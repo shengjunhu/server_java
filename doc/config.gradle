@@ -1,0 +1,93 @@
+ext {
+
+    plugins = [
+            maven                      : 'http://www.mvnrepository.com/'
+    ]
+
+    java = [
+            versionCode                : 1805240,
+            versionName                : "1.0.0",
+
+            //开发状态
+            isDeBug                    : true
+    ]
+
+    dependencies = [
+            //环境设置、插件仓库
+            log                    : 'org.slf4j:slf4j-api:1.7.25',
+            guan                   : 'com.google.guava:guava:23.0',
+            commons_io             : 'commons-io:commons-io:2.6',
+            commons_lang3          : 'org.apache.commons:commons-lang3:3.7',
+            commons_logging        : 'commons-logging:commons-logging:1.2',
+            httpcore               : 'org.apache.httpcomponents:httpcore:4.4.9',
+            httpcore_nio           : 'org.apache.httpcomponents:httpcore-nio:4.4.9',
+            httpclient             : 'org.apache.httpcomponents:httpclient:4.5.5',
+            commons_codec          : 'commons-codec:commons-codec:1.11',
+            commons_collections    : 'commons-collections:commons-collections:3.2.2',
+            commons_beanutils      : 'commons-beanutils:commons-beanutils:1.9.3',
+            commons_fileupload     : 'commons-fileupload:commons-fileupload:1.3.3',
+            commons_configuration  : 'commons-configuration:commons-configuration:1.10',
+            commons_dbcp           : 'commons-dbcp:commons-dbcp:1.4',
+            commons_compress       : 'org.apache.commons:commons-compress:1.15',
+
+            //tomcat
+            tomcat                 : 'org.apache.tomcat:tomcat-servlet-api:9.0.4',
+
+            //servlet、jsp
+            servlet_api            : 'javax.servlet:servlet-api:4.0.0',
+            jsp_api                : 'javax.servlet.jsp:jsp-api:2.2',
+
+            //Test
+            test                   : 'junit:junit:4.12',
+
+            //Spring
+            spring_jdbc            : 'org.springframework:spring-jdbc:5.0.3.RELEASE',
+            spring_test            : 'org.springframework:spring-test:5.0.3.RELEASE',
+            spring_context         : 'org.springframework:spring-context:5.0.3.RELEASE',
+            spring_beans           : 'org.springframework:spring-beans:5.0.3.RELEASE',
+            spring_support         : 'org.springframework:spring-context-support:5.0.3.RELEASE',
+            spring_web             : 'org.springframework:spring-web:5.0.3.RELEASE',
+            spring_webmvc          : 'org.springframework:spring-webmvc:5.0.3.RELEASE',
+            spring_tx              : 'org.springframework:spring-tx:5.0.3.RELEASE',
+            spring_expression      : 'org.springframework:spring-expression:5.0.3.RELEASE',
+            spring_aop             : 'org.springframework:spring-aop:5.0.3.RELEASE',
+            spring_orm             : 'org.springframework:spring-orm:5.0.3.RELEASE',
+            spring_security        : 'org.springframework.security:spring-security-core:5.0.1.RELEASE',
+
+            //权限
+            shiro_web              :'org.apache.shiro:shiro-web:1.4.0',
+            shiro_core             :'org.apache.shiro:shiro-core:1.4.0',
+            shiro_spring           :'org.apache.shiro:shiro-spring:1.4.0',
+            shiro_ehcache          :'org.apache.shiro:shiro-ehcache:1.4.0',
+
+            //mysql
+            mysql                  : 'mysql:mysql-connector-java:6.0.6',
+
+            //云存储
+            oss                    : 'com.qiniu:qiniu-java-sdk:7.2.+',
+
+            //数据库连接池、json
+            druid                  : 'com.alibaba:druid:1.1.7',
+            fastjson               : 'com.alibaba:fastjson:1.2.44',
+
+            //jackson
+            jackson_core           : 'com.fasterxml.jackson.core:jackson-core:2.9.4',
+            jackson_databind       : 'com.fasterxml.jackson.core:jackson-databind:2.9.4',
+            jackson_annotations    : 'com.fasterxml.jackson.core:jackson-annotations:2.9.4',
+
+            //MyBits
+            mybatis                : 'org.mybatis:mybatis:3.4.5',
+            mybatis_spring         : 'org.mybatis:mybatis-spring:1.3.1',
+
+            //Redis
+            spring_redis           :'org.springframework.data:spring-data-redis:2.0.3.RELEASE',
+
+            //swagger2、RAP
+            swagger2               :'io.springfox:springfox-swagger2:2.8.0',
+            swagger2_ui            :'io.springfox:springfox-swagger-ui:2.8.0',
+
+            //zxing
+            zxing_core             :'com.google.zxing:core:3.3.2',
+    ]
+
+}
