@@ -7,10 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lib-common" />
+        <module name="lib-db" />
+        <module name="lib-encrypt" />
         <module name="lib-mongo" />
         <module name="lib-search" />
         <module name="main-api" />
-        <module name="main-db" />
         <module name="main-discover" />
         <module name="main-pay" />
         <module name="main-shop" />
@@ -30,8 +31,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="FastJava" target="1.7" />
+      <module name="FastJava" target="1.8" />
       <module name="lib-common" target="1.7" />
+      <module name="lib-db" target="1.7" />
+      <module name="lib-encrypt" target="1.7" />
       <module name="lib-mongo" target="1.7" />
       <module name="lib-search" target="1.7" />
       <module name="main-api" target="1.7" />

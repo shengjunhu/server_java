@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lib-encrypt:war">
+    <output-path>$PROJECT_DIR$/lib-encrypt/target</output-path>
+    <root id="archive" name="lib-encrypt.war">
+      <element id="artifact" artifact-name="lib-encrypt:war exploded" />
+    </root>
+  </artifact>
+</component>

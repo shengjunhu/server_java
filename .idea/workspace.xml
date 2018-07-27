@@ -2,56 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2226e9af-97e6-4eef-823b-e5a8a413123d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/lib_common_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/lib_common_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/lib_mongo_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/lib_mongo_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/lib_search_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/lib_search_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_api_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_api_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_db_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_db_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_discover_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_discover_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_pay_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_pay_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_shop_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_shop_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_user_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_user_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_zone_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/main_zone_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_ali_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_ali_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_im_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_im_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_map_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_map_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_oss_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_oss_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_push_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_push_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_qq_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_qq_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_sina_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_sina_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_wx_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_wx_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/web_mobile_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/web_mobile_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/web_pc_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/web_pc_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/web_service_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/web_service_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FastJava.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib-db/lib-db.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib-db/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib-encrypt/lib-encrypt.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib-encrypt/pom.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main-db/main-db.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main-db/main-db_README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main-db/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main-db/src/main/webapp/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main-db/src/main/webapp/index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/lib_common_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/lib_common_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/lib_mongo_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/lib_mongo_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/lib_search_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/lib_search_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/main_api_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/main_api_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/main_discover_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/main_discover_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/main_pay_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/main_pay_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/main_shop_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/main_shop_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/main_user_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/main_user_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/main_zone_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/main_zone_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/sdk_ali_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_ali_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/sdk_im_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_im_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/sdk_map_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_map_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/sdk_oss_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_oss_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/sdk_push_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_push_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/sdk_qq_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_qq_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/sdk_sina_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_sina_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/sdk_wx_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/sdk_wx_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/web_pc_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/web_pc_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/web_service_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/web_service_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FastJava.iml" afterPath="$PROJECT_DIR$/FastJava.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib-common/lib-common.iml" afterPath="$PROJECT_DIR$/lib-common/lib-common.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib-mongo/lib-mongo.iml" afterPath="$PROJECT_DIR$/lib-mongo/lib-mongo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib-search/lib-search.iml" afterPath="$PROJECT_DIR$/lib-search/lib-search.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main-api/main-api.iml" afterPath="$PROJECT_DIR$/main-api/main-api.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main-discover/main-discover.iml" afterPath="$PROJECT_DIR$/main-discover/main-discover.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main-pay/main-pay.iml" afterPath="$PROJECT_DIR$/main-pay/main-pay.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main-shop/main-shop.iml" afterPath="$PROJECT_DIR$/main-shop/main-shop.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main-user/main-user.iml" afterPath="$PROJECT_DIR$/main-user/main-user.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main-zone/main-zone.iml" afterPath="$PROJECT_DIR$/main-zone/main-zone.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk-ali/sdk-ali.iml" afterPath="$PROJECT_DIR$/sdk-ali/sdk-ali.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk-im/sdk-im.iml" afterPath="$PROJECT_DIR$/sdk-im/sdk-im.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk-map/sdk-map.iml" afterPath="$PROJECT_DIR$/sdk-map/sdk-map.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk-oss/sdk-oss.iml" afterPath="$PROJECT_DIR$/sdk-oss/sdk-oss.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk-push/sdk-push.iml" afterPath="$PROJECT_DIR$/sdk-push/sdk-push.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk-qq/sdk-qq.iml" afterPath="$PROJECT_DIR$/sdk-qq/sdk-qq.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk-sina/sdk-sina.iml" afterPath="$PROJECT_DIR$/sdk-sina/sdk-sina.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk-wx/sdk-wx.iml" afterPath="$PROJECT_DIR$/sdk-wx/sdk-wx.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-pc/web-pc.iml" afterPath="$PROJECT_DIR$/web-pc/web-pc.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-service/web-service.iml" afterPath="$PROJECT_DIR$/web-service/web-service.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,6 +81,8 @@
     <ignored path="$PROJECT_DIR$/main-pay/target/" />
     <ignored path="$PROJECT_DIR$/webservice/target/" />
     <ignored path="$PROJECT_DIR$/main-discover/target/" />
+    <ignored path="$PROJECT_DIR$/lib-encrypt/target/" />
+    <ignored path="$PROJECT_DIR$/lib-db/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +91,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="299" column="32" lean-forward="true" selection-start-line="299" selection-start-column="32" selection-end-line="299" selection-end-column="32" />
+              <folding>
+                <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-test</find>
+      <find>junit</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -100,6 +125,7 @@
       <list>
         <option value="$PROJECT_DIR$/main-pay/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lib-db/pom.xml" />
       </list>
     </option>
   </component>
@@ -154,7 +180,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.40111732" />
-    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -255,18 +281,19 @@
       <workItem from="1532601616750" duration="1213000" />
       <workItem from="1532657420995" duration="837000" />
       <workItem from="1532660109172" duration="171000" />
-      <workItem from="1532660306501" duration="13000" />
+      <workItem from="1532660306501" duration="7408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7905000" />
+    <option name="totallyTimeSpent" value="15300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -275,6 +302,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995495" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -291,7 +319,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -338,12 +365,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#modules#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#repositories#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#pluginRepositories#0;n#project#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -353,12 +375,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#modules#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#repositories#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#pluginRepositories#0;n#project#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -381,6 +398,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -438,6 +456,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -729,17 +748,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib-encrypt/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib-db/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="204">
+          <caret line="299" column="32" lean-forward="true" selection-start-line="299" selection-start-column="32" selection-end-line="299" selection-end-column="32" />
           <folding>
-            <element signature="n#modules#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#build#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#repositories#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#pluginRepositories#0;n#project#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -798,7 +836,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>web-service</last-edited>
+          <last-edited>lib-encrypt</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

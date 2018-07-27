@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lib-db:war">
+    <output-path>$PROJECT_DIR$/lib-db/target</output-path>
+    <root id="archive" name="lib-db.war">
+      <element id="artifact" artifact-name="lib-db:war exploded" />
+    </root>
+  </artifact>
+</component>

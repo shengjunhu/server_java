@@ -4,10 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FastJava.iml" filepath="$PROJECT_DIR$/FastJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib-common/lib-common.iml" filepath="$PROJECT_DIR$/lib-common/lib-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-db/lib-db.iml" filepath="$PROJECT_DIR$/lib-db/lib-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-encrypt/lib-encrypt.iml" filepath="$PROJECT_DIR$/lib-encrypt/lib-encrypt.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib-mongo/lib-mongo.iml" filepath="$PROJECT_DIR$/lib-mongo/lib-mongo.iml" />
       <module fileurl="file://$PROJECT_DIR$/lib-search/lib-search.iml" filepath="$PROJECT_DIR$/lib-search/lib-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/main-api/main-api.iml" filepath="$PROJECT_DIR$/main-api/main-api.iml" />
-      <module fileurl="file://$PROJECT_DIR$/main-db/main-db.iml" filepath="$PROJECT_DIR$/main-db/main-db.iml" />
       <module fileurl="file://$PROJECT_DIR$/main-discover/main-discover.iml" filepath="$PROJECT_DIR$/main-discover/main-discover.iml" />
       <module fileurl="file://$PROJECT_DIR$/main-pay/main-pay.iml" filepath="$PROJECT_DIR$/main-pay/main-pay.iml" />
       <module fileurl="file://$PROJECT_DIR$/main-shop/main-shop.iml" filepath="$PROJECT_DIR$/main-shop/main-shop.iml" />
