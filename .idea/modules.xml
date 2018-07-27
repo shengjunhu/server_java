@@ -27,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/sdk-wx/sdk-wx.iml" filepath="$PROJECT_DIR$/sdk-wx/sdk-wx.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-mobile/web-mobile.iml" filepath="$PROJECT_DIR$/web-mobile/web-mobile.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-pc/web-pc.iml" filepath="$PROJECT_DIR$/web-pc/web-pc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-sample/web-sample.iml" filepath="$PROJECT_DIR$/web-sample/web-sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-service/web-service.iml" filepath="$PROJECT_DIR$/web-service/web-service.iml" />
     </modules>
   </component>

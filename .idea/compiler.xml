@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="lib-activemq" />
+        <module name="lib-bubbox" />
         <module name="lib-common" />
         <module name="lib-db" />
         <module name="lib-encrypt" />
         <module name="lib-mongo" />
+        <module name="lib-quartz" />
         <module name="lib-search" />
         <module name="main-api" />
         <module name="main-discover" />
@@ -27,15 +30,19 @@
         <module name="sdk-wx" />
         <module name="web-mobile" />
         <module name="web-pc" />
+        <module name="web-sample" />
         <module name="web-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="FastJava" target="1.8" />
+      <module name="lib-activemq" target="1.8" />
+      <module name="lib-bubbox" target="1.8" />
       <module name="lib-common" target="1.7" />
       <module name="lib-db" target="1.7" />
       <module name="lib-encrypt" target="1.7" />
       <module name="lib-mongo" target="1.7" />
+      <module name="lib-quartz" target="1.8" />
       <module name="lib-search" target="1.7" />
       <module name="main-api" target="1.7" />
       <module name="main-db" target="1.7" />
@@ -54,6 +61,7 @@
       <module name="sdk-wx" target="1.7" />
       <module name="web-mobile" target="1.7" />
       <module name="web-pc" target="1.7" />
+      <module name="web-sample" target="1.7" />
       <module name="web-service" target="1.7" />
       <module name="web-service (1)" target="1.7" />
     </bytecodeTargetLevel>

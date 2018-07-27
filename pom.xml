@@ -13,6 +13,7 @@
     <url>http://www.hsj.com</url>
 
     <modules>
+        <module>web-sample</module>
         <module>web-pc</module>
         <module>web-mobile</module>
         <module>web-service</module>

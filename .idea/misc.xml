@@ -23,6 +23,7 @@
     <file type="web" url="file://$PROJECT_DIR$/sdk-wx" />
     <file type="web" url="file://$PROJECT_DIR$/web-mobile" />
     <file type="web" url="file://$PROJECT_DIR$/web-pc" />
+    <file type="web" url="file://$PROJECT_DIR$/web-sample" />
     <file type="web" url="file://$PROJECT_DIR$/web-service" />
   </component>
   <component name="MavenProjectsManager">
