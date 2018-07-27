@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lib-common" />
+        <module name="lib-mongo" />
+        <module name="lib-search" />
+        <module name="main-api" />
+        <module name="main-db" />
+        <module name="main-discover" />
+        <module name="main-pay" />
+        <module name="main-shop" />
+        <module name="main-user" />
+        <module name="main-zone" />
+        <module name="sdk-ali" />
+        <module name="sdk-im" />
+        <module name="sdk-map" />
+        <module name="sdk-oss" />
+        <module name="sdk-push" />
+        <module name="sdk-qq" />
+        <module name="sdk-sina" />
+        <module name="sdk-wx" />
+        <module name="web-mobile" />
+        <module name="web-pc" />
+        <module name="web-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FastJava" target="1.7" />
+      <module name="lib-common" target="1.7" />
+      <module name="lib-mongo" target="1.7" />
+      <module name="lib-search" target="1.7" />
+      <module name="main-api" target="1.7" />
+      <module name="main-db" target="1.7" />
+      <module name="main-discover" target="1.7" />
+      <module name="main-pay" target="1.7" />
+      <module name="main-shop" target="1.7" />
+      <module name="main-user" target="1.7" />
+      <module name="main-zone" target="1.7" />
+      <module name="sdk-ali" target="1.7" />
+      <module name="sdk-im" target="1.7" />
+      <module name="sdk-map" target="1.7" />
+      <module name="sdk-oss" target="1.7" />
+      <module name="sdk-push" target="1.7" />
+      <module name="sdk-qq" target="1.7" />
+      <module name="sdk-sina" target="1.7" />
+      <module name="sdk-wx" target="1.7" />
+      <module name="web-mobile" target="1.7" />
+      <module name="web-pc" target="1.7" />
+      <module name="web-service" target="1.7" />
+      <module name="web-service (1)" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

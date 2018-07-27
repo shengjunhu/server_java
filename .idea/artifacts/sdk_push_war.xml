@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdk-push:war">
+    <output-path>$PROJECT_DIR$/sdk-push/target</output-path>
+    <root id="archive" name="sdk-push.war">
+      <element id="artifact" artifact-name="sdk-push:war exploded" />
+    </root>
+  </artifact>
+</component>

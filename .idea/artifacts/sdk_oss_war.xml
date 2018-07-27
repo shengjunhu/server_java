@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdk-oss:war">
+    <output-path>$PROJECT_DIR$/sdk-oss/target</output-path>
+    <root id="archive" name="sdk-oss.war">
+      <element id="artifact" artifact-name="sdk-oss:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="main-discover:war">
+    <output-path>$PROJECT_DIR$/main-discover/target</output-path>
+    <root id="archive" name="main-discover.war">
+      <element id="artifact" artifact-name="main-discover:war exploded" />
+    </root>
+  </artifact>
+</component>

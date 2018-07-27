@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdk-map:war">
+    <output-path>$PROJECT_DIR$/sdk-map/target</output-path>
+    <root id="archive" name="sdk-map.war">
+      <element id="artifact" artifact-name="sdk-map:war exploded" />
+    </root>
+  </artifact>
+</component>

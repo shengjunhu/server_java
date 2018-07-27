@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdk-ali:war">
+    <output-path>$PROJECT_DIR$/sdk-ali/target</output-path>
+    <root id="archive" name="sdk-ali.war">
+      <element id="artifact" artifact-name="sdk-ali:war exploded" />
+    </root>
+  </artifact>
+</component>

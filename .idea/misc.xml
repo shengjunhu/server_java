@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/lib-common" />
+    <file type="web" url="file://$PROJECT_DIR$/lib-mongo" />
+    <file type="web" url="file://$PROJECT_DIR$/lib-search" />
+    <file type="web" url="file://$PROJECT_DIR$/main-api" />
+    <file type="web" url="file://$PROJECT_DIR$/main-db" />
+    <file type="web" url="file://$PROJECT_DIR$/main-discover" />
+    <file type="web" url="file://$PROJECT_DIR$/main-pay" />
+    <file type="web" url="file://$PROJECT_DIR$/main-shop" />
+    <file type="web" url="file://$PROJECT_DIR$/main-user" />
+    <file type="web" url="file://$PROJECT_DIR$/main-zone" />
+    <file type="web" url="file://$PROJECT_DIR$/sdk-ali" />
+    <file type="web" url="file://$PROJECT_DIR$/sdk-im" />
+    <file type="web" url="file://$PROJECT_DIR$/sdk-map" />
+    <file type="web" url="file://$PROJECT_DIR$/sdk-oss" />
+    <file type="web" url="file://$PROJECT_DIR$/sdk-push" />
+    <file type="web" url="file://$PROJECT_DIR$/sdk-qq" />
+    <file type="web" url="file://$PROJECT_DIR$/sdk-sina" />
+    <file type="web" url="file://$PROJECT_DIR$/sdk-wx" />
+    <file type="web" url="file://$PROJECT_DIR$/web-mobile" />
+    <file type="web" url="file://$PROJECT_DIR$/web-pc" />
+    <file type="web" url="file://$PROJECT_DIR$/web-service" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web-mobile/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/webservice/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

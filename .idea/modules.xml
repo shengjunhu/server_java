@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FastJava.iml" filepath="$PROJECT_DIR$/FastJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-common/lib-common.iml" filepath="$PROJECT_DIR$/lib-common/lib-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-mongo/lib-mongo.iml" filepath="$PROJECT_DIR$/lib-mongo/lib-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-search/lib-search.iml" filepath="$PROJECT_DIR$/lib-search/lib-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-api/main-api.iml" filepath="$PROJECT_DIR$/main-api/main-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-db/main-db.iml" filepath="$PROJECT_DIR$/main-db/main-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-discover/main-discover.iml" filepath="$PROJECT_DIR$/main-discover/main-discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-pay/main-pay.iml" filepath="$PROJECT_DIR$/main-pay/main-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-shop/main-shop.iml" filepath="$PROJECT_DIR$/main-shop/main-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-user/main-user.iml" filepath="$PROJECT_DIR$/main-user/main-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main-zone/main-zone.iml" filepath="$PROJECT_DIR$/main-zone/main-zone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk-ali/sdk-ali.iml" filepath="$PROJECT_DIR$/sdk-ali/sdk-ali.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk-im/sdk-im.iml" filepath="$PROJECT_DIR$/sdk-im/sdk-im.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk-map/sdk-map.iml" filepath="$PROJECT_DIR$/sdk-map/sdk-map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk-oss/sdk-oss.iml" filepath="$PROJECT_DIR$/sdk-oss/sdk-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk-push/sdk-push.iml" filepath="$PROJECT_DIR$/sdk-push/sdk-push.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk-qq/sdk-qq.iml" filepath="$PROJECT_DIR$/sdk-qq/sdk-qq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk-sina/sdk-sina.iml" filepath="$PROJECT_DIR$/sdk-sina/sdk-sina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdk-wx/sdk-wx.iml" filepath="$PROJECT_DIR$/sdk-wx/sdk-wx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-mobile/web-mobile.iml" filepath="$PROJECT_DIR$/web-mobile/web-mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-pc/web-pc.iml" filepath="$PROJECT_DIR$/web-pc/web-pc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-service/web-service.iml" filepath="$PROJECT_DIR$/web-service/web-service.iml" />
+    </modules>
+  </component>
+</project>

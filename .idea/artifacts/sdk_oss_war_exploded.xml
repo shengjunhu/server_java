@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sdk-oss:war exploded">
+    <output-path>$PROJECT_DIR$/sdk-oss/target/sdk-oss</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sdk-oss" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/sdk-oss/target/sdk-oss/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="sdk-oss/web/Web" />
+    </root>
+  </artifact>
+</component>

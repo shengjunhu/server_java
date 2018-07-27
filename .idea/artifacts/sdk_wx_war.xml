@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdk-wx:war">
+    <output-path>$PROJECT_DIR$/sdk-wx/target</output-path>
+    <root id="archive" name="sdk-wx.war">
+      <element id="artifact" artifact-name="sdk-wx:war exploded" />
+    </root>
+  </artifact>
+</component>

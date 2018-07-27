@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdk-im:war">
+    <output-path>$PROJECT_DIR$/sdk-im/target</output-path>
+    <root id="archive" name="sdk-im.war">
+      <element id="artifact" artifact-name="sdk-im:war exploded" />
+    </root>
+  </artifact>
+</component>

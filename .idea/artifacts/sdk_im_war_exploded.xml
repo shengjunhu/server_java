@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="sdk-im:war exploded">
+    <output-path>$PROJECT_DIR$/sdk-im/target/sdk-im</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="sdk-im" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/sdk-im/target/sdk-im/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="sdk-im/web/Web" />
+    </root>
+  </artifact>
+</component>

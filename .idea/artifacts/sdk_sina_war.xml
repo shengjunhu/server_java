@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sdk-sina:war">
+    <output-path>$PROJECT_DIR$/sdk-sina/target</output-path>
+    <root id="archive" name="sdk-sina.war">
+      <element id="artifact" artifact-name="sdk-sina:war exploded" />
+    </root>
+  </artifact>
+</component>
