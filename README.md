@@ -1,4 +1,4 @@
-# FastJava
+# server_java_fast
 采用Gradle构建SpringMVC+Spring+myBatis后端快速开发服务器框架
 
 ## 开发框架：
